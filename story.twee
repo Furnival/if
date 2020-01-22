@@ -1,18 +1,17 @@
 ::StoryTitle
 Blueish 
 
-
 ::StoryData
 {
-    "ifid": "F2177A49-95C9-4B14-AE66-62526089F861",
+    "ifid": "F2177A49-95C9-4B14-AE66-62526089F861"
 }
 
-:: Start
+::Start
 This is the first passage in a Twine game!
 And this is some text!
 [[This is a link|Next Passage]]
 
 
-:: Next Passage
+::Next Passage
 The player just clicked a link to get here!
 
