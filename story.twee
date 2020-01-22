@@ -6,6 +6,9 @@
     "start": "Start"
 }
 
+::StoryTitle
+test
+
 :: Start
 This is the first passage in a Twine game!
 And this is some text!
